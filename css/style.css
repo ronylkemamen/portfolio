@@ -1,0 +1,52 @@
+.gradient-background {
+    background: rgb(6,4,52);
+    background: linear-gradient(307deg, rgba(6,4,52,1) 0%, rgba(67,138,181,1) 53%, rgba(55,203,233,1) 94%);
+  }
+
+body{
+    color: b;
+}
+
+#name{
+  color: white;
+}
+
+#title{
+  color: black;
+}
+
+#side{
+  background-color: #9eb3c2 ;
+}
+
+#tt{
+  
+  color:#001c55;
+  margin-bottom: 20px
+}
+
+#picture{
+  width: 100%;
+  height: 100%;
+}
+
+#about{
+  text-align: center;
+
+}
+
+#foot{
+  text-align: center;
+  color: white !important;
+  
+}
+
+.no-underline {
+  word-spacing: 25px;
+  text-decoration: none !important;
+  color: white !important;
+}
+
+
+
+
